@@ -1,6 +1,6 @@
 # TUBES-PBO
 
-ANGGOTA:
+ANGGOTA:\n
 PROJECT MANAGER :Satrio Dhanar Fathoni        19102051
 PROGRAMER       :Kevin Christian Alexander    19102293
 PROGRAMER       :Talitha Yulistya Dewi        19102258
