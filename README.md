@@ -1,12 +1,13 @@
-# TUBES-PBO
-#TEAM SATU (satu mean only me who work on this project)
+APLIKASI PEMESANAN TIKET TRAVEL PURWOKERTO SOLO
 
-ANGGOTA:
-#[PROJECT MANAGER :Satrio Dhanar Fathoni        (19102051)]
-#[PROGRAMER       :Kevin Christian Alexander    (19102293)]
-#[PROGRAMER       :Talitha Yulistya Dewi        (19102258)]
-#[DESAINER        :Syifa Putri Widi Prameswari  (19102261)]
-#[ANALYST         :Atha Alana Faristiano Totti  (19102294)]
+
+
+anggota:
+project manager : satrio dhanar fathoni 19102051
+programer       : Kevin Christian Alexander 19102293
+programer       : Talitha Yulistya Dewi 19102258
+designer        : Syifa Putri Widi Prameswari 19102261
+analyst         : Atha Alana Faristiano Totti  19102294
 
 
 proyek ini dibuat untuk mempermudah para konsumen dari travel purwokerto
